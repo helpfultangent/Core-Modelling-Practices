@@ -1,2 +1,3 @@
 # Core-Modelling-Practices
-This is a shared repository for course applications, materials, and content for curricula related to Intelligent Systems for Geosciences
+This is a shared repository to document practices, materials, and content related to the Core Modelling Practices for Integrated Water Resource Management (IWRM).
+
